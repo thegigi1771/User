@@ -1,0 +1,4 @@
+CREATE TABLE User (
+  id INT PRIMARY KEY,
+  nom VARCHAR(100)
+);
